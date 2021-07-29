@@ -1,0 +1,7 @@
+transaction
+-----------
+
+get 'transaction','d05640e77a8131c4b8650e460cab53c1b46c33c3_43'
+COLUMN                                        CELL
+ adParam:alt                                  timestamp=1627542184000, value=view
+ info:pat                                     timestamp=1627542184000, value=\x00\x00\x00*

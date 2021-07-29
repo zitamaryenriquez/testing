@@ -1,0 +1,76 @@
+user_action_tid
+---------------
+
+get 'user_action_tid','def:1:9223370410478432339:zbjvx'
+COLUMN                                        CELL
+ adParam:alt                                  timestamp=1627542183136, value=cv
+ adParam:auid                                 timestamp=1627542183136, value=8417b8f9-822d-4f11-af13-4a282c0d6ef2
+ adParam:cli                                  timestamp=1627542183136, value=\x00\x00\x00\x03
+ adParam:cvt                                  timestamp=1627542183136, value=\x00\x00\x0E\xB9
+ info:ipa                                     timestamp=1627542183136, value=70.39.129.100
+ info:pat                                     timestamp=1627542183136, value=\x00\x00\x00\x08
+ info:pre                                     timestamp=1627542183136, value=-
+ info:ref                                     timestamp=1627542183136, value=-
+ info:typ                                     timestamp=1627542183136, value=\x00\x00\x00\x07
+ info:usa                                     timestamp=1627542183136, value=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+
+get 'user_action_tid','jkl:1032:9223370410477703577:zcErF'
+COLUMN                                        CELL
+ adParam:adg                                  timestamp=1627542183981, value=\x00\x00_B
+ adParam:alt                                  timestamp=1627542183981, value=dac
+ adParam:auid                                 timestamp=1627542183981, value=6acdde52-9a43-47b1-991a-895d51661aa4
+ adParam:aut                                  timestamp=1627542183981, value=\x00\x00\x00\x00
+ adParam:bit                                  timestamp=1627542183981, value=0
+ adParam:cam                                  timestamp=1627542183981, value=24386
+ adParam:cli                                  timestamp=1627542183981, value=\x00\x00\x03\xE0
+ adParam:cmpy                                 timestamp=1627542183981, value=\x00\x00\x00\x00
+ adParam:cre                                  timestamp=1627542183981, value=\x00\x00\x00\x00
+ adParam:cri                                  timestamp=1627542183981, value=-
+ adParam:dei                                  timestamp=1627542183981, value=\x00\x00\x00\x00
+ adParam:dtid                                 timestamp=1627542183981, value=\x00\x00?\x8C
+ adParam:med                                  timestamp=1627542183981, value=dsp
+ adParam:pat                                  timestamp=1627542183981, value=0
+ adParam:sou                                  timestamp=1627542183981, value=3
+ adParam:tps                                  timestamp=1627542183981, value=\x00\x04*\xB6
+ adParam:tsi                                  timestamp=1627542183981, value=d05640e77a8131c4b8650e460cab53c1b46c33c3_43
+ info:atyp                                    timestamp=1627542183981, value=\x00\x00\x00\x01
+ info:ipa                                     timestamp=1627542183981, value=14.11.7.225
+ info:pat                                     timestamp=1627542183981, value=\x00\x00\x00
+ info:ref                                     timestamp=1627542183981, value=girlschannel.net/topics/3487498/2,girlschannel.net/topics/3487498/2
+ info:ssp                                     timestamp=1627542183981, value=\x00\x00\x00\x1A
+ info:typ                                     timestamp=1627542183981, value=\x00\x00\x00\x0C
+ info:usa                                     timestamp=1627542183981, value=-
+ info:uss                                     timestamp=1627542183981, value=-
+
+get 'user_action_tid','ghi:1032:9223370410478210720:zbXyO'
+COLUMN                                        CELL
+ adParam:adg                                  timestamp=1627542183981, value=\x00\x00_B
+ adParam:alt                                  timestamp=1627542183981, value=view
+ adParam:auid                                 timestamp=1627542183981, value=6acdde52-9a43-47b1-991a-895d51661aa4
+ adParam:aut                                  timestamp=1627542183981, value=\x00\x00\x00\x00
+ adParam:bit                                  timestamp=1627542183981, value=0
+ adParam:cam                                  timestamp=1627542183981, value=24386
+ adParam:cli                                  timestamp=1627542183981, value=\x00\x00\x03\xE0
+ adParam:cmpy                                 timestamp=1627542183981, value=\x00\x00\x00\x00
+ adParam:cre                                  timestamp=1627542183981, value=\x00\x00\x00\x00
+ adParam:cri                                  timestamp=1627542183981, value=-
+ adParam:dei                                  timestamp=1627542183981, value=\x00\x00\x00\x00
+ adParam:dtid                                 timestamp=1627542183981, value=\x00\x00?\x8C
+ adParam:med                                  timestamp=1627542183981, value=dsp
+ adParam:pat                                  timestamp=1627542183981, value=0
+ adParam:sou                                  timestamp=1627542183981, value=3
+ adParam:tps                                  timestamp=1627542183981, value=\x00\x04*\xB6
+ adParam:tsi                                  timestamp=1627542183981, value=d05640e77a8131c4b8650e460cab53c1b46c33c3_43
+ info:atyp                                    timestamp=1627542183981, value=\x00\x00\x00\x01
+ info:cpm                                     timestamp=1627542183981, value=\x00\x00\x00\x00\x00\x02\x08\xF9
+ info:ipa                                     timestamp=1627542183981, value=14.11.7.225
+ info:kph                                     timestamp=1627542183981, value=-
+ info:pat                                     timestamp=1627542183981, value=\x00\x00\x00*
+ info:pre                                     timestamp=1627542183981, value=-
+ info:ref                                     timestamp=1627542183981, value=girlschannel.net/topics/3487498/2,girlschannel.net/topics/3487498/2
+ info:reh                                     timestamp=1627542183981, value=https://bidresult-dsp.ad-m.asia/
+ info:ssp                                     timestamp=1627542183981, value=\x00\x00\x00\x1A
+ info:tsi                                     timestamp=1627542183981, value=d05640e77a8131c4b8650e460cab53c1b46c33c3_43
+ info:typ                                     timestamp=1627542183981, value=\x00\x00\x00\x0B
+ info:usa                                     timestamp=1627542183981, value=-
+ info:uss                                     timestamp=1627542183981, value=-

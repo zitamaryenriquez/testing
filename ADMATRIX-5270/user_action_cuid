@@ -1,0 +1,14 @@
+user_action_cuid
+----------------
+
+get 'user_action_cuid','abc:1:9223370410478432339:zbjvx'
+COLUMN                                        CELL
+ adParam:alt                                  timestamp=1627542183119, value=cv
+ adParam:cli                                  timestamp=1627542183119, value=\x00\x00\x00\x03
+ adParam:cvt                                  timestamp=1627542183119, value=\x00\x00\x0E\xB9
+ info:ipa                                     timestamp=1627542183119, value=70.39.129.100
+ info:pat                                     timestamp=1627542183119, value=\x00\x00\x00\x08
+ info:pre                                     timestamp=1627542183119, value=-
+ info:ref                                     timestamp=1627542183119, value=-
+ info:typ                                     timestamp=1627542183119, value=\x00\x00\x00\x07
+ info:usa                                     timestamp=1627542183119, value=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
