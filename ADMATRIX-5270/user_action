@@ -3,102 +3,102 @@ user_action
 
 get 'user_action','6acdde52-9a43-47b1-991a-895d51661aa4:1032:9223370410478210720:zbXyO'
 COLUMN                                        CELL
- adParam:adg                                  timestamp=1627542183952, value=\x00\x00_B
- adParam:alt                                  timestamp=1627542183952, value=view
- adParam:aut                                  timestamp=1627542183952, value=\x00\x00\x00\x00
- adParam:bit                                  timestamp=1627542183952, value=0
- adParam:cam                                  timestamp=1627542183952, value=24386
- adParam:cli                                  timestamp=1627542183952, value=\x00\x00\x03\xE0
- adParam:cmpy                                 timestamp=1627542183952, value=\x00\x00\x00\x00
- adParam:cre                                  timestamp=1627542183952, value=\x00\x00\x00\x00
- adParam:cri                                  timestamp=1627542183952, value=-
- adParam:dei                                  timestamp=1627542183952, value=\x00\x00\x00\x00
- adParam:dtid                                 timestamp=1627542183952, value=\x00\x00?\x8C
- adParam:med                                  timestamp=1627542183952, value=dsp
- adParam:pat                                  timestamp=1627542183952, value=0
- adParam:sou                                  timestamp=1627542183952, value=3
- adParam:tps                                  timestamp=1627542183952, value=\x00\x04*\xB6
- adParam:tsi                                  timestamp=1627542183952, value=d05640e77a8131c4b8650e460cab53c1b46c33c3_43
- info:atyp                                    timestamp=1627542183952, value=\x00\x00\x00\x01
- info:cpm                                     timestamp=1627542183952, value=\x00\x00\x00\x00\x00\x02\x08\xF9
- info:ipa                                     timestamp=1627542183952, value=14.11.7.225
- info:kph                                     timestamp=1627542183952, value=-
- info:pat                                     timestamp=1627542183952, value=\x00\x00\x00*
- info:pre                                     timestamp=1627542183952, value=-
- info:ref                                     timestamp=1627542183952, value=girlschannel.net/topics/3487498/2,girlschannel.net/topics/3487498/2
- info:reh                                     timestamp=1627542183952, value=https://bidresult-dsp.ad-m.asia/
- info:ssp                                     timestamp=1627542183952, value=\x00\x00\x00\x1A
- info:tsi                                     timestamp=1627542183952, value=d05640e77a8131c4b8650e460cab53c1b46c33c3_43
- info:typ                                     timestamp=1627542183952, value=\x00\x00\x00\x0B
- info:usa                                     timestamp=1627542183952, value=-
- info:uss                                     timestamp=1627542183952, value=-
+ adParam:adg                                  timestamp=1627547747148, value=\x00\x00_B
+ adParam:alt                                  timestamp=1627547747148, value=view
+ adParam:aut                                  timestamp=1627547747148, value=\x00\x00\x00\x00
+ adParam:bit                                  timestamp=1627547747148, value=0
+ adParam:cam                                  timestamp=1627547747148, value=24386
+ adParam:cli                                  timestamp=1627547747148, value=\x00\x00\x03\xE0
+ adParam:cmpy                                 timestamp=1627547747148, value=\x00\x00\x00\x00
+ adParam:cre                                  timestamp=1627547747148, value=\x00\x00\x00\x00
+ adParam:cri                                  timestamp=1627547747148, value=-
+ adParam:dei                                  timestamp=1627547747148, value=\x00\x00\x00\x00
+ adParam:dtid                                 timestamp=1627547747148, value=\x00\x00?\x8C
+ adParam:med                                  timestamp=1627547747148, value=dsp
+ adParam:pat                                  timestamp=1627547747148, value=0
+ adParam:sou                                  timestamp=1627547747148, value=3
+ adParam:tps                                  timestamp=1627547747148, value=\x00\x04*\xB6
+ adParam:tsi                                  timestamp=1627547747148, value=d05640e77a8131c4b8650e460cab53c1b46c33c3_43
+ info:atyp                                    timestamp=1627547747148, value=\x00\x00\x00\x01
+ info:cpm                                     timestamp=1627547747148, value=\x00\x00\x00\x00\x00\x02\x08\xF9
+ info:ipa                                     timestamp=1627547747148, value=14.11.7.225
+ info:kph                                     timestamp=1627547747148, value=-
+ info:pat                                     timestamp=1627547747148, value=\x00\x00\x00*
+ info:pre                                     timestamp=1627547747148, value=-
+ info:ref                                     timestamp=1627547747148, value=girlschannel.net/topics/3487498/2,girlschannel.net/topics/3487498/2
+ info:reh                                     timestamp=1627547747148, value=https://bidresult-dsp.ad-m.asia/
+ info:ssp                                     timestamp=1627547747148, value=\x00\x00\x00\x1A
+ info:tsi                                     timestamp=1627547747148, value=d05640e77a8131c4b8650e460cab53c1b46c33c3_43
+ info:typ                                     timestamp=1627547747148, value=\x00\x00\x00\x0B
+ info:usa                                     timestamp=1627547747148, value=Mozilla/5.0 (Linux; Android 10; SHV46) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Mobile Safari/537.36
+ info:uss                                     timestamp=1627547747148, value=-
 
 get 'user_action','6acdde52-9a43-47b1-991a-895d51661aa4:1032:9223370410477703577:zcErF'
 COLUMN                                        CELL
- adParam:adg                                  timestamp=1627542183952, value=\x00\x00_B
- adParam:alt                                  timestamp=1627542183952, value=dac
- adParam:aut                                  timestamp=1627542183952, value=\x00\x00\x00\x00
- adParam:bit                                  timestamp=1627542183952, value=0
- adParam:cam                                  timestamp=1627542183952, value=24386
- adParam:cli                                  timestamp=1627542183952, value=\x00\x00\x03\xE0
- adParam:cmpy                                 timestamp=1627542183952, value=\x00\x00\x00\x00
- adParam:cre                                  timestamp=1627542183952, value=\x00\x00\x00\x00
- adParam:cri                                  timestamp=1627542183952, value=-
- adParam:dei                                  timestamp=1627542183952, value=\x00\x00\x00\x00
- adParam:dtid                                 timestamp=1627542183952, value=\x00\x00?\x8C
- adParam:med                                  timestamp=1627542183952, value=dsp
- adParam:pat                                  timestamp=1627542183952, value=0
- adParam:sou                                  timestamp=1627542183952, value=3
- adParam:tps                                  timestamp=1627542183952, value=\x00\x04*\xB6
- adParam:tsi                                  timestamp=1627542183952, value=d05640e77a8131c4b8650e460cab53c1b46c33c3_43
- info:atyp                                    timestamp=1627542183952, value=\x00\x00\x00\x01
- info:ipa                                     timestamp=1627542183952, value=14.11.7.225
- info:pat                                     timestamp=1627542183952, value=\x00\x00\x00
- info:ref                                     timestamp=1627542183952, value=girlschannel.net/topics/3487498/2,girlschannel.net/topics/3487498/2
- info:ssp                                     timestamp=1627542183952, value=\x00\x00\x00\x1A
- info:typ                                     timestamp=1627542183952, value=\x00\x00\x00\x0C
- info:usa                                     timestamp=1627542183952, value=-
- info:uss                                     timestamp=1627542183952, value=-
+ adParam:adg                                  timestamp=1627547747148, value=\x00\x00_B
+ adParam:alt                                  timestamp=1627547747148, value=dac
+ adParam:aut                                  timestamp=1627547747148, value=\x00\x00\x00\x00
+ adParam:bit                                  timestamp=1627547747148, value=0
+ adParam:cam                                  timestamp=1627547747148, value=24386
+ adParam:cli                                  timestamp=1627547747148, value=\x00\x00\x03\xE0
+ adParam:cmpy                                 timestamp=1627547747148, value=\x00\x00\x00\x00
+ adParam:cre                                  timestamp=1627547747148, value=\x00\x00\x00\x00
+ adParam:cri                                  timestamp=1627547747148, value=-
+ adParam:dei                                  timestamp=1627547747148, value=\x00\x00\x00\x00
+ adParam:dtid                                 timestamp=1627547747148, value=\x00\x00?\x8C
+ adParam:med                                  timestamp=1627547747148, value=dsp
+ adParam:pat                                  timestamp=1627547747148, value=0
+ adParam:sou                                  timestamp=1627547747148, value=3
+ adParam:tps                                  timestamp=1627547747148, value=\x00\x04*\xB6
+ adParam:tsi                                  timestamp=1627547747148, value=d05640e77a8131c4b8650e460cab53c1b46c33c3_43
+ info:atyp                                    timestamp=1627547747148, value=\x00\x00\x00\x01
+ info:ipa                                     timestamp=1627547747148, value=14.11.7.225
+ info:pat                                     timestamp=1627547747148, value=\x00\x00\x00
+ info:ref                                     timestamp=1627547747148, value=girlschannel.net/topics/3487498/2,girlschannel.net/topics/3487498/2
+ info:ssp                                     timestamp=1627547747148, value=\x00\x00\x00\x1A
+ info:typ                                     timestamp=1627547747148, value=\x00\x00\x00\x0C
+ info:usa                                     timestamp=1627547747148, value=Mozilla/5.0 (Linux; Android 10; SHV46) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Mobile Safari/537.36
+ info:uss                                     timestamp=1627547747148, value=-
 
 get 'user_action','8417b8f9-822d-4f11-af13-4a282c0d6ef2:1:9223370410478432339:zbjvx'
 COLUMN                                        CELL
- adParam:alt                                  timestamp=1627542183090, value=cv
- adParam:cli                                  timestamp=1627542183090, value=\x00\x00\x00\x03
- adParam:cvt                                  timestamp=1627542183090, value=\x00\x00\x0E\xB9
- info:ipa                                     timestamp=1627542183090, value=70.39.129.100
- info:pat                                     timestamp=1627542183090, value=\x00\x00\x00\x08
- info:pre                                     timestamp=1627542183090, value=-
- info:ref                                     timestamp=1627542183090, value=-
- info:typ                                     timestamp=1627542183090, value=\x00\x00\x00\x07
- info:usa                                     timestamp=1627542183090, value=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
+ adParam:alt                                  timestamp=1627547746350, value=cv
+ adParam:cli                                  timestamp=1627547746350, value=\x00\x00\x00\x03
+ adParam:cvt                                  timestamp=1627547746350, value=\x00\x00\x0E\xB9
+ info:ipa                                     timestamp=1627547746350, value=70.39.129.100
+ info:pat                                     timestamp=1627547746350, value=\x00\x00\x00\x08
+ info:pre                                     timestamp=1627547746350, value=-
+ info:ref                                     timestamp=1627547746350, value=-
+ info:typ                                     timestamp=1627547746350, value=\x00\x00\x00\x07
+ info:usa                                     timestamp=1627547746350, value=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0
 
 get 'user_action','294369b7-c6b5-4aec-ba04-38a822c7f35c:1064:9223370410477159605:zbVyM'
 COLUMN                                        CELL
- adParam:adg                                  timestamp=1627542183739, value=\x00\x00J\xA2
- adParam:alt                                  timestamp=1627542183739, value=oac
- adParam:cam                                  timestamp=1627542183739, value=GDN_\xE3\x83\xAA\xE3\x83\x9E\xE3\x83\xBC\xE3\x82\xB1\xE3\x83\x86\xE3\x82\xA3\xE3\x83\xB3\xE3\x82\xB0
- adParam:cli                                  timestamp=1627542183739, value=\x00\x00\x03\xF7
- adParam:con                                  timestamp=1627542183739, value=\xE3\x83\x90\xE3\x83\x8A\xE3\x83\xBC\xE5\xBA\x83\xE5\x91\x8A
- adParam:med                                  timestamp=1627542183739, value=cpc_display_click
- adParam:oac                                  timestamp=1627542183739, value=\x00\x00\x00\x00\x00\x005\xD2
- adParam:sou                                  timestamp=1627542183739, value=33
- info:ipa                                     timestamp=1627542183739, value=197.218.0.69
- info:kph                                     timestamp=1627542183739, value=-
- info:pat                                     timestamp=1627542183739, value=\x00\x00\x00\x04
- info:reh                                     timestamp=1627542183739, value=https://www.google.com/
- info:sdm                                     timestamp=1627542183739, value=Google
- info:usa                                     timestamp=1627542183739, value=Mozilla/5.0 (Linux; Android 11; SM-G975U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36
+ adParam:adg                                  timestamp=1627547747198, value=\x00\x00J\xA2
+ adParam:alt                                  timestamp=1627547747198, value=oac
+ adParam:cam                                  timestamp=1627547747198, value=GDN_\xE3\x83\xAA\xE3\x83\x9E\xE3\x83\xBC\xE3\x82\xB1\xE3\x83\x86\xE3\x82\xA3\xE3\x83\xB3\xE3\x82\xB0
+ adParam:cli                                  timestamp=1627547747198, value=\x00\x00\x03\xF7
+ adParam:con                                  timestamp=1627547747198, value=\xE3\x83\x90\xE3\x83\x8A\xE3\x83\xBC\xE5\xBA\x83\xE5\x91\x8A
+ adParam:med                                  timestamp=1627547747198, value=cpc_display_click
+ adParam:oac                                  timestamp=1627547747198, value=\x00\x00\x00\x00\x00\x005\xD2
+ adParam:sou                                  timestamp=1627547747198, value=33
+ info:ipa                                     timestamp=1627547747198, value=197.218.0.69
+ info:kph                                     timestamp=1627547747198, value=-
+ info:pat                                     timestamp=1627547747198, value=\x00\x00\x00\x04
+ info:reh                                     timestamp=1627547747198, value=https://www.google.com/
+ info:sdm                                     timestamp=1627547747198, value=Google
+ info:usa                                     timestamp=1627547747198, value=Mozilla/5.0 (Linux; Android 11; SM-G975U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.88 Mobile Safari/537.36
 
 get 'user_action','62aa1d9b-3fc3-4463-a834-555816935dc6:1:9223370410476921136:zaRPM'
 COLUMN                                        CELL
- adParam:alt                                  timestamp=1627542183819, value=org
- adParam:cli                                  timestamp=1627542183819, value=\x00\x00\x00\x03
- adParam:med                                  timestamp=1627542183819, value=SEO
- adParam:sou                                  timestamp=1627542183819, value=Google
- info:ipa                                     timestamp=1627542183819, value=153.156.211.127
- info:pat                                     timestamp=1627542183819, value=\x00\x00\x00\x03
- info:pre                                     timestamp=1627542183819, value=https://www.google.com/
- info:ref                                     timestamp=1627542183819, value=https://www.admatrix.jp/dsp/
- info:reh                                     timestamp=1627542183819, value=https://www.admatrix.jp/
- info:typ                                     timestamp=1627542183819, value=\x00\x00\x00\x05
- info:usa                                     timestamp=1627542183819, value=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36
+ adParam:alt                                  timestamp=1627547746936, value=org
+ adParam:cli                                  timestamp=1627547746936, value=\x00\x00\x00\x03
+ adParam:med                                  timestamp=1627547746936, value=SEO
+ adParam:sou                                  timestamp=1627547746936, value=Google
+ info:ipa                                     timestamp=1627547746936, value=153.156.211.127
+ info:pat                                     timestamp=1627547746936, value=\x00\x00\x00\x03
+ info:pre                                     timestamp=1627547746936, value=https://www.google.com/
+ info:ref                                     timestamp=1627547746936, value=https://www.admatrix.jp/dsp/
+ info:reh                                     timestamp=1627547746936, value=https://www.admatrix.jp/
+ info:typ                                     timestamp=1627547746936, value=\x00\x00\x00\x05
+ info:usa                                     timestamp=1627547746936, value=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36

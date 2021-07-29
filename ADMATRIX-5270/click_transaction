@@ -2,29 +2,29 @@ click_transaction
 -----------------
 
 get 'click_transaction','d05640e77a8131c4b8650e460cab53c1b46c33c3_43:9223370410477703577'
-COLUMN                                        CELL
- adParam:acc                                  timestamp=1627542183991, value=\x00\x00\x04\x08
- adParam:adg                                  timestamp=1627542183991, value=\x00\x00_B
- adParam:als                                  timestamp=1627542183991, value=zcErF
- adParam:alt                                  timestamp=1627542183991, value=dac
- adParam:aut                                  timestamp=1627542183991, value=\x00\x00\x00\x00
- adParam:bit                                  timestamp=1627542183991, value=0
- adParam:cam                                  timestamp=1627542183991, value=24386
- adParam:cli                                  timestamp=1627542183991, value=\x00\x00\x03\xE0
- adParam:cmpy                                 timestamp=1627542183991, value=\x00\x00\x00\x00
- adParam:cre                                  timestamp=1627542183991, value=\x00\x00\x00\x00
- adParam:cri                                  timestamp=1627542183991, value=-
- adParam:dei                                  timestamp=1627542183991, value=\x00\x00\x00\x00
- adParam:med                                  timestamp=1627542183991, value=dsp
- adParam:pat                                  timestamp=1627542183991, value=0
- adParam:sou                                  timestamp=1627542183991, value=3
- adParam:tps                                  timestamp=1627542183991, value=\x00\x04*\xB6
- adParam:tsi                                  timestamp=1627542183991, value=d05640e77a8131c4b8650e460cab53c1b46c33c3_43
- info:atyp                                    timestamp=1627542183991, value=\x00\x00\x00\x01
- info:ipa                                     timestamp=1627542183991, value=14.11.7.225
- info:pat                                     timestamp=1627542183991, value=\x00\x00\x00
- info:ref                                     timestamp=1627542183991, value=girlschannel.net/topics/3487498/2,girlschannel.net/topics/3487498/2
- info:ssp                                     timestamp=1627542183991, value=\x00\x00\x00\x1A
- info:typ                                     timestamp=1627542183991, value=\x00\x00\x00\x0C
- info:usa                                     timestamp=1627542183991, value=-
- info:uss                                     timestamp=1627542183991, value=-
+COLUMN                                                CELL
+ adParam:acc                                          timestamp=1627547747196, value=\x00\x00\x04\x08
+ adParam:adg                                          timestamp=1627547747196, value=\x00\x00_B
+ adParam:als                                          timestamp=1627547747196, value=zcErF
+ adParam:alt                                          timestamp=1627547747196, value=dac
+ adParam:aut                                          timestamp=1627547747196, value=\x00\x00\x00\x00
+ adParam:bit                                          timestamp=1627547747196, value=0
+ adParam:cam                                          timestamp=1627547747196, value=24386
+ adParam:cli                                          timestamp=1627547747196, value=\x00\x00\x03\xE0
+ adParam:cmpy                                         timestamp=1627547747196, value=\x00\x00\x00\x00
+ adParam:cre                                          timestamp=1627547747196, value=\x00\x00\x00\x00
+ adParam:cri                                          timestamp=1627547747196, value=-
+ adParam:dei                                          timestamp=1627547747196, value=\x00\x00\x00\x00
+ adParam:med                                          timestamp=1627547747196, value=dsp
+ adParam:pat                                          timestamp=1627547747196, value=0
+ adParam:sou                                          timestamp=1627547747196, value=3
+ adParam:tps                                          timestamp=1627547747196, value=\x00\x04*\xB6
+ adParam:tsi                                          timestamp=1627547747196, value=d05640e77a8131c4b8650e460cab53c1b46c33c3_43
+ info:atyp                                            timestamp=1627547747196, value=\x00\x00\x00\x01
+ info:ipa                                             timestamp=1627547747196, value=14.11.7.225
+ info:pat                                             timestamp=1627547747196, value=\x00\x00\x00
+ info:ref                                             timestamp=1627547747196, value=girlschannel.net/topics/3487498/2,girlschannel.net/topics/3487498/2
+ info:ssp                                             timestamp=1627547747196, value=\x00\x00\x00\x1A
+ info:typ                                             timestamp=1627547747196, value=\x00\x00\x00\x0C
+ info:usa                                             timestamp=1627547747196, value=Mozilla/5.0 (Linux; Android 10; SHV46) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.120 Mobile Safari/537.36
+ info:uss                                             timestamp=1627547747196, value=-
